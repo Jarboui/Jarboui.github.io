@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home" # Etienne Boursier
 title_separator          : "-"
-name                     : &name "Firas Jarboui"
+name                     : &name "Etienne Boursier"
 description              : &description "PhD Student"
-url                      : https://Jarboui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eboursier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jarboui.github.io"
+repository               : "eboursier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,12 +75,12 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-158352964-1"
 
 
 # Site Author
 author:
-  name             : "Firas Jarboui"
+  name             : "Etienne Boursier"
   avatar           : "profile.jpg"
   bio              : "PhD Student"
   location         : "ENS Paris-Saclay, France"
