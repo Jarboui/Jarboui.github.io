@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find here the latest version of my CV
+Have a look at my (hopefully updated) CV for additional information!
 
 Education
 ======
