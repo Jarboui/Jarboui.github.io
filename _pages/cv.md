@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Have a look at my (hopefully updated) CV for additional information!
+Have a look at my (hopefully updated) [CV](http://Jarboui.github.io/files/CV.pdf) for additional information!
 
 Education
 ======
