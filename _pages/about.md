@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am interested in optimal decision making, modeling behaviours and inferring intents from observations. Relevant research topics to this end include: (Inverse) Reinforcement Learning, Game Theory, Recommander Systems, Generative Adversarial Networks and Representation Learning.  
+I am interested in optimal decision making, modeling behaviours and inferring intents from observations. Relevant research topics to this end include: (Inverse) Reinforcement Learning, Game Theory, Recommander Systems, GANs and Representation Learning.  
 
 Since December 2018, I have been persuing a PhD degree in Inverse Reinforcement Learning at ENS Paris Saclay under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/). The goal of the thesis is to learn rational agent's behaviours as-well as their inherent reinforcement contingencies. Particularly in settings where contextual latent states are motivating the observed actions. This project aims to explain human behaviours in online platforms. 
 My work is financed by [ANEO](https://www.aneo.eu/) and [ANRT](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844).
