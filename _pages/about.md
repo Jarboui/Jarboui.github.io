@@ -17,3 +17,5 @@ Since December 2018, I have been persuing a PhD degree in Inverse Reinforcement 
 My work is financed by [ANEO](https://www.aneo.eu/) and [ANRT](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844).
 
 Before this, I got an [engineering degree](https://www.ensta-paris.fr/fr/les-parcours-de-specialisation) from ENSTA ParisTech with a major in optimisation and data science as-well as a [Master](https://portail.polytechnique.edu/mathematiquesappliquees/node/365) degree in Machine Learning at Ecole Polytechnique.
+
+Please, do not hesitate to ask me any question or supplementary material by email.
