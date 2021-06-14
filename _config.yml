@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Firas Jarboui"
 description              : &description "PhD Student"
