@@ -28,4 +28,4 @@ Work experience
 
 * 2016 (4 months): Visiting Student at Harvard SEAS and Chalmers
   * Strategy optimization in a multi-agent environment
-  
+ 
