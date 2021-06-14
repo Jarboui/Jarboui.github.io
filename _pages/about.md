@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 
 I am interested in optimal decision making, modeling behaviours and inferring intents from observations. Relevant research topics to this end include: (Inverse) Reinforcement Learning, Game Theory, Recommander Systems, GANs and Representation Learning.  
 
